@@ -71,7 +71,7 @@
 	$url = 'http://patentscope.wipo.int/search/en/result.jsf?currentNavigationRow=' . $continue . '&prevCurrentNavigationRow=1&query=FP:%28%22renewable%20energy%22%29&office=&sortOption=Pub%20Date%20Desc&prevFilter=&maxRec=2769&viewOption=All';   
 	}
 	$fp=fopen("allurls.txt", "w"); //ouverture du fichier en mode écriture, création du fichier s'il n'existe pas.
-     for ($i = 0; $i < 2873; $i++) {
+     for ($i = 0; $i < 2878; $i++) {
 	 fwrite($fp,$results_urls[$i]."\r\n");
 }
 ?>
