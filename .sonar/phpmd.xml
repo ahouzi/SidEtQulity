@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pmd version="1.3.2" timestamp="2013-12-23T22:45:32+00:00">
+  <file name="C:\Users\Ahouzi\Desktop\analyse\src\LIB_http.php">
+    <violation beginline="120" endline="120" rule="UnusedLocalVariable" ruleset="Unused Code Rules" externalInfoUrl="http://phpmd.org/rules/unusedcode.html#unusedlocalvariable" priority="3">
+      Avoid unused local variables such as '$method'.
+    </violation>
+    <violation beginline="120" endline="120" rule="UnusedLocalVariable" ruleset="Unused Code Rules" externalInfoUrl="http://phpmd.org/rules/unusedcode.html#unusedlocalvariable" priority="3">
+      Avoid unused local variables such as '$data_array'.
+    </violation>
+    <violation beginline="139" endline="139" rule="UnusedLocalVariable" ruleset="Unused Code Rules" externalInfoUrl="http://phpmd.org/rules/unusedcode.html#unusedlocalvariable" priority="3">
+      Avoid unused local variables such as '$method'.
+    </violation>
+    <violation beginline="139" endline="139" rule="UnusedLocalVariable" ruleset="Unused Code Rules" externalInfoUrl="http://phpmd.org/rules/unusedcode.html#unusedlocalvariable" priority="3">
+      Avoid unused local variables such as '$data_array'.
+    </violation>
+    <violation beginline="162" endline="162" rule="UnusedLocalVariable" ruleset="Unused Code Rules" externalInfoUrl="http://phpmd.org/rules/unusedcode.html#unusedlocalvariable" priority="3">
+      Avoid unused local variables such as '$method'.
+    </violation>
+    <violation beginline="185" endline="185" rule="UnusedLocalVariable" ruleset="Unused Code Rules" externalInfoUrl="http://phpmd.org/rules/unusedcode.html#unusedlocalvariable" priority="3">
+      Avoid unused local variables such as '$method'.
+    </violation>
+    <violation beginline="208" endline="208" rule="UnusedLocalVariable" ruleset="Unused Code Rules" externalInfoUrl="http://phpmd.org/rules/unusedcode.html#unusedlocalvariable" priority="3">
+      Avoid unused local variables such as '$method'.
+    </violation>
+    <violation beginline="213" endline="213" rule="UnusedLocalVariable" ruleset="Unused Code Rules" externalInfoUrl="http://phpmd.org/rules/unusedcode.html#unusedlocalvariable" priority="3">
+      Avoid unused local variables such as '$method'.
+    </violation>
+    <violation beginline="218" endline="218" rule="UnusedLocalVariable" ruleset="Unused Code Rules" externalInfoUrl="http://phpmd.org/rules/unusedcode.html#unusedlocalvariable" priority="3">
+      Avoid unused local variables such as '$method'.
+    </violation>
+    <violation beginline="218" endline="218" rule="UnusedLocalVariable" ruleset="Unused Code Rules" externalInfoUrl="http://phpmd.org/rules/unusedcode.html#unusedlocalvariable" priority="3">
+      Avoid unused local variables such as '$data_array'.
+    </violation>
+  </file>
+</pmd>

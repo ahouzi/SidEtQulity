@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metrics generated="2013-12-23T22:45:31" pdepend="1.1.4" ahh="0" andc="0" calls="47" ccn="31" ccn2="31" cloc="436" clsa="0" clsc="0" eloc="321" fanout="1" leafs="0" lloc="190" loc="802" maxDIT="0" ncloc="366" noc="0" nof="16" noi="0" nom="0" nop="1" roots="0">
+  <files>
+    <file name="C:\Users\Ahouzi\Desktop\analyse\src\ALIMENTATION.php" cloc="59" eloc="149" lloc="81" loc="235" ncloc="176"/>
+    <file name="C:\Users\Ahouzi\Desktop\analyse\src\LIB_http.php" cloc="216" eloc="93" lloc="61" loc="316" ncloc="100"/>
+    <file name="C:\Users\Ahouzi\Desktop\analyse\src\LIB_parse.php" cloc="161" eloc="79" lloc="48" loc="251" ncloc="90"/>
+  </files>
+  <package name="+global" noc="0" nof="16" noi="0" nom="0">
+    <function name="scrape_between" ccn="1" ccn2="1" cloc="5" eloc="7" lloc="5" loc="7" ncloc="2" npath="1">
+      <file name="C:\Users\Ahouzi\Desktop\analyse\src\ALIMENTATION.php"/>
+    </function>
+    <function name="curl" ccn="1" ccn2="1" cloc="15" eloc="18" lloc="6" loc="20" ncloc="5" npath="1">
+      <file name="C:\Users\Ahouzi\Desktop\analyse\src\ALIMENTATION.php"/>
+    </function>
+    <function name="http_get" ccn="1" ccn2="1" cloc="0" eloc="3" lloc="1" loc="4" ncloc="4" npath="1">
+      <file name="C:\Users\Ahouzi\Desktop\analyse\src\LIB_http.php"/>
+    </function>
+    <function name="http_get_withheader" ccn="1" ccn2="1" cloc="0" eloc="3" lloc="1" loc="4" ncloc="4" npath="1">
+      <file name="C:\Users\Ahouzi\Desktop\analyse\src\LIB_http.php"/>
+    </function>
+    <function name="http_get_form" ccn="1" ccn2="1" cloc="0" eloc="3" lloc="1" loc="4" ncloc="4" npath="1">
+      <file name="C:\Users\Ahouzi\Desktop\analyse\src\LIB_http.php"/>
+    </function>
+    <function name="http_get_form_withheader" ccn="1" ccn2="1" cloc="0" eloc="3" lloc="1" loc="4" ncloc="4" npath="1">
+      <file name="C:\Users\Ahouzi\Desktop\analyse\src\LIB_http.php"/>
+    </function>
+    <function name="http_post_form" ccn="1" ccn2="1" cloc="0" eloc="3" lloc="1" loc="4" ncloc="4" npath="1">
+      <file name="C:\Users\Ahouzi\Desktop\analyse\src\LIB_http.php"/>
+    </function>
+    <function name="http_post_withheader" ccn="1" ccn2="1" cloc="0" eloc="3" lloc="1" loc="4" ncloc="4" npath="1">
+      <file name="C:\Users\Ahouzi\Desktop\analyse\src\LIB_http.php"/>
+    </function>
+    <function name="http_header" ccn="1" ccn2="1" cloc="0" eloc="3" lloc="1" loc="4" ncloc="4" npath="1">
+      <file name="C:\Users\Ahouzi\Desktop\analyse\src\LIB_http.php"/>
+    </function>
+    <function name="http" ccn="9" ccn2="9" cloc="23" eloc="54" lloc="38" loc="70" ncloc="47" npath="40">
+      <file name="C:\Users\Ahouzi\Desktop\analyse\src\LIB_http.php"/>
+    </function>
+    <function name="split_string" ccn="4" ccn2="4" cloc="7" eloc="21" lloc="12" loc="28" ncloc="21" npath="4">
+      <file name="C:\Users\Ahouzi\Desktop\analyse\src\LIB_parse.php"/>
+    </function>
+    <function name="return_between" ccn="1" ccn2="1" cloc="0" eloc="4" lloc="2" loc="5" ncloc="5" npath="1">
+      <file name="C:\Users\Ahouzi\Desktop\analyse\src\LIB_parse.php"/>
+    </function>
+    <function name="parse_array" ccn="1" ccn2="1" cloc="0" eloc="4" lloc="2" loc="5" ncloc="5" npath="1">
+      <file name="C:\Users\Ahouzi\Desktop\analyse\src\LIB_parse.php"/>
+    </function>
+    <function name="get_attribute" ccn="1" ccn2="1" cloc="3" eloc="6" lloc="4" loc="12" ncloc="9" npath="1">
+      <file name="C:\Users\Ahouzi\Desktop\analyse\src\LIB_parse.php"/>
+    </function>
+    <function name="remove" ccn="2" ccn2="2" cloc="2" eloc="6" lloc="4" loc="11" ncloc="9" npath="2">
+      <file name="C:\Users\Ahouzi\Desktop\analyse\src\LIB_parse.php"/>
+    </function>
+    <function name="tidy_html" ccn="4" ccn2="4" cloc="4" eloc="27" lloc="14" loc="32" ncloc="28" npath="5">
+      <file name="C:\Users\Ahouzi\Desktop\analyse\src\LIB_parse.php"/>
+    </function>
+  </package>
+</metrics>
