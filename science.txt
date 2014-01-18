@@ -21,7 +21,7 @@ KW  - Fuzzy Delphi method
 KW  - Influence factors
 ER  - 
 
-TY  - JOUR
+TY  - Nuit
 T1  - Renewable Energy Certificates (RECs) in India – A performance analysis and future outlook
 JO  - Renewable and Sustainable Energy Reviews
 VL  - 27
