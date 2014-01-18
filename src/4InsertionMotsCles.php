@@ -1,6 +1,6 @@
 <?php
 /*
-    Script  : INSERTING INTO MOTCLE FOR THE BEST AUTOR
+    Script  : INSERTING INTO MOTCLE FOR THE BEST AUTOR 
     Author  : Adnan AHOUZI ENSA AGADIR
     version : 1.0
 
@@ -64,6 +64,6 @@ $req->execute(array(
 }
 
 }
-$reponse->closeCursor(); // Termine le traitement de la requête
+$reponse->closeCursor(); // Termine le traitement de la requête et fermeture de la connexion
 
 ?>
