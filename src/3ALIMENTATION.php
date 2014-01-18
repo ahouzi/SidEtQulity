@@ -1,7 +1,7 @@
 <?php
 /*
     Script  : EXTRACTION ET ALIMENTATION DE LA BASE DE DONNEES r_energy EN UTILISANT PHP/CURL
-    Author  : Adnan AHOUZI
+    Author  : Adnan AHOUZI ENSA AGADIR
     version : 1.0
 
     */
