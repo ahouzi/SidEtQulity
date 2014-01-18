@@ -1,7 +1,7 @@
 <?php
 /*
     Script  : INSERTING INTO MOTCLE FOR THE BEST AUTOR
-    Author  : Adnan AHOUZI
+    Author  : Adnan AHOUZI ENSA AGADIR
     version : 1.0
 
     */
